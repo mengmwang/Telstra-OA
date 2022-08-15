@@ -1,6 +1,8 @@
 # Telstra-OA
 
-Five coding questions
+This repository contains the coding questions and answers for the online assessment by Telstra (code in Python 3). 
+
+**Five coding questions**
 
 `capword.py` : Write a program which capitalizes the first letter of each word in a sentence.
 
