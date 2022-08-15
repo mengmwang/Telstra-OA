@@ -1,6 +1,6 @@
 # Telstra-OA
 
-This repository contains the coding questions and answers for the online assessment by Telstra (code in Python 3). 
+This repository contains the coding questions and my attempted solutions for the online assessment by Telstra (code in Python 3). 
 
 **Five coding questions**
 
